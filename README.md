@@ -2,7 +2,7 @@
 
 <h1>Seja bem vindo(a)!</h1>
 
-<h2>É um prazer eu sou o Maiar Darweesh! </h2>
+<h2>É um prazer, eu sou o Maiar Darweesh! </h2>
 
 Recém formado pelo bootcamp da Generation Brasil como Desenvolvedor Full Stack Java Junior e pelo ensino médio integrado em curso técnico em Mecânica pelo Instituto Federal de Ciencias e Tecnologia de São Paulo.
 Atualmente sou estudante de bacharelado pela Universidade Federal do ABC.
